@@ -59,5 +59,4 @@ Project Organization
 
 ## Resources 
 1.[SpaceX might name its satellite broadband internet service Starlink](https://techcrunch.com/2017/09/20/spacex-might-name-its-satellite-broadband-internet-service-starlink/).<br>
-2.[FCC approves SpaceX plan for 4,425-satellite broadband network](https://techcrunch.com/2018/03/29/fcc-approves-spacex-plan-for-4425-satellite-broadband-network/). <b>
-3.[Top 20 internet density](https://www.internetworldstats.com/top20.htm).
+2.[FCC approves SpaceX plan for 4,425-satellite broadband network](https://techcrunch.com/2018/03/29/fcc-approves-spacex-plan-for-4425-satellite-broadband-network/).<b> 3.[Top 20 internet density](https://www.internetworldstats.com/top20.htm)
