@@ -1,7 +1,7 @@
 Starlink
 ==============================
 
-A short description of the project.
+This is a dataset investigation on the SpaceX mission Starlink utilizing Machine Lerning concepts to explain the concept of the mission and what it's needed for the mission to succeed. 
 
 Project Organization
 ------------
@@ -55,3 +55,8 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+
+## Resources 
+1.[SpaceX might name its satellite broadband internet service Starlink](https://techcrunch.com/2017/09/20/spacex-might-name-its-satellite-broadband-internet-service-starlink/).<br>
+2.[FCC approves SpaceX plan for 4,425-satellite broadband network](https://techcrunch.com/2018/03/29/fcc-approves-spacex-plan-for-4425-satellite-broadband-network/).<b> 3.[Top 20 internet density](https://www.internetworldstats.com/top20.htm)
